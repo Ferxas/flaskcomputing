@@ -1,4 +1,4 @@
-# Cloud and Edge Computing: lab materials
+# Cloud and Edge Computing: materials
 
 ## Folder structure
 
